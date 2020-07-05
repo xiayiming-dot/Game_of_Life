@@ -1,0 +1,288 @@
+src/GOL/Cell.java:1:	PackageCase: Package name contains upper case characters
+src/GOL/Cell.java:1:	PackageCase: Package name contains upper case characters
+src/GOL/Cell.java:3:	CommentRequired: Class comments are required
+src/GOL/Cell.java:3:	CommentRequired: Class comments are required
+src/GOL/Cell.java:3:	ShortClassName: Avoid short class names like Cell
+src/GOL/Cell.java:3:	ShortClassName: Avoid short class names like Cell
+src/GOL/Cell.java:4:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/Cell.java:4:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/Cell.java:4:	CommentRequired: Field comments are required
+src/GOL/Cell.java:4:	CommentRequired: Field comments are required
+src/GOL/Cell.java:5:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/Cell.java:5:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/Cell.java:5:	CommentRequired: Field comments are required
+src/GOL/Cell.java:5:	CommentRequired: Field comments are required
+src/GOL/Cell.java:6:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/Cell.java:6:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/Cell.java:6:	CommentRequired: Field comments are required
+src/GOL/Cell.java:6:	CommentRequired: Field comments are required
+src/GOL/Cell.java:7:	CommentRequired: Field comments are required
+src/GOL/Cell.java:7:	CommentRequired: Field comments are required
+src/GOL/Cell.java:8:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Cell constructor if you want a default access modifier
+src/GOL/Cell.java:8:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Cell constructor if you want a default access modifier
+src/GOL/Cell.java:8:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/GOL/Cell.java:8:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/GOL/Cell.java:8:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/GOL/Cell.java:8:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/GOL/Cell.java:8:	ShortVariable: Avoid variables with short names like x
+src/GOL/Cell.java:8:	ShortVariable: Avoid variables with short names like x
+src/GOL/Cell.java:8:	ShortVariable: Avoid variables with short names like y
+src/GOL/Cell.java:8:	ShortVariable: Avoid variables with short names like y
+src/GOL/Cell.java:13:	CommentRequired: Public method and constructor comments are required
+src/GOL/Cell.java:13:	CommentRequired: Public method and constructor comments are required
+src/GOL/Cell.java:16:	CommentRequired: Public method and constructor comments are required
+src/GOL/Cell.java:16:	CommentRequired: Public method and constructor comments are required
+src/GOL/Cell.java:19:	CommentRequired: Public method and constructor comments are required
+src/GOL/Cell.java:19:	CommentRequired: Public method and constructor comments are required
+src/GOL/Cell.java:19:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/GOL/Cell.java:19:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/GOL/Cell.java:19:	ShortVariable: Avoid variables with short names like x
+src/GOL/Cell.java:19:	ShortVariable: Avoid variables with short names like x
+src/GOL/Cell.java:22:	CommentRequired: Public method and constructor comments are required
+src/GOL/Cell.java:22:	CommentRequired: Public method and constructor comments are required
+src/GOL/Cell.java:22:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/GOL/Cell.java:22:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/GOL/Cell.java:22:	ShortVariable: Avoid variables with short names like y
+src/GOL/Cell.java:22:	ShortVariable: Avoid variables with short names like y
+src/GOL/Cell.java:25:	CommentRequired: Public method and constructor comments are required
+src/GOL/Cell.java:25:	CommentRequired: Public method and constructor comments are required
+src/GOL/Cell.java:26:	SimplifyBooleanExpressions: Avoid unnecessary comparisons in boolean expressions
+src/GOL/Cell.java:26:	SimplifyBooleanExpressions: Avoid unnecessary comparisons in boolean expressions
+src/GOL/Cell.java:26:	SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+src/GOL/Cell.java:26:	SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+src/GOL/Cell.java:27:	ControlStatementBraces: This statement should have braces
+src/GOL/Cell.java:27:	ControlStatementBraces: This statement should have braces
+src/GOL/Cell.java:27:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/GOL/Cell.java:27:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/GOL/Cell.java:28:	ControlStatementBraces: This statement should have braces
+src/GOL/Cell.java:28:	ControlStatementBraces: This statement should have braces
+src/GOL/Cell.java:30:	MethodArgumentCouldBeFinal: Parameter 'state' is not assigned and could be declared final
+src/GOL/Cell.java:30:	MethodArgumentCouldBeFinal: Parameter 'state' is not assigned and could be declared final
+src/GOL/Cell.java:36:	MethodArgumentCouldBeFinal: Parameter 'num' is not assigned and could be declared final
+src/GOL/Cell.java:36:	MethodArgumentCouldBeFinal: Parameter 'num' is not assigned and could be declared final
+src/GOL/GOL.java:1:	PackageCase: Package name contains upper case characters
+src/GOL/GOL.java:1:	PackageCase: Package name contains upper case characters
+src/GOL/GOL.java:10:	UnusedImports: Avoid unused imports such as 'java.awt.event.MouseAdapter'
+src/GOL/GOL.java:10:	UnusedImports: Avoid unused imports such as 'java.awt.event.MouseAdapter'
+src/GOL/GOL.java:11:	UnusedImports: Avoid unused imports such as 'java.awt.event.MouseEvent'
+src/GOL/GOL.java:11:	UnusedImports: Avoid unused imports such as 'java.awt.event.MouseEvent'
+src/GOL/GOL.java:15:	UnusedImports: Avoid unused imports such as 'javax.swing.JMenu'
+src/GOL/GOL.java:15:	UnusedImports: Avoid unused imports such as 'javax.swing.JMenu'
+src/GOL/GOL.java:16:	UnusedImports: Avoid unused imports such as 'javax.swing.JMenuBar'
+src/GOL/GOL.java:16:	UnusedImports: Avoid unused imports such as 'javax.swing.JMenuBar'
+src/GOL/GOL.java:17:	UnusedImports: Avoid unused imports such as 'javax.swing.JMenuItem'
+src/GOL/GOL.java:17:	UnusedImports: Avoid unused imports such as 'javax.swing.JMenuItem'
+src/GOL/GOL.java:18:	UnusedImports: Avoid unused imports such as 'javax.swing.JOptionPane'
+src/GOL/GOL.java:18:	UnusedImports: Avoid unused imports such as 'javax.swing.JOptionPane'
+src/GOL/GOL.java:21:	CommentRequired: Class comments are required
+src/GOL/GOL.java:21:	CommentRequired: Class comments are required
+src/GOL/GOL.java:21:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/GOL/GOL.java:21:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/GOL/GOL.java:21:	ShortClassName: Avoid short class names like GOL
+src/GOL/GOL.java:21:	ShortClassName: Avoid short class names like GOL
+src/GOL/GOL.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/GOL.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/GOL.java:22:	CommentRequired: Field comments are required
+src/GOL/GOL.java:22:	CommentRequired: Field comments are required
+src/GOL/GOL.java:23:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/GOL.java:23:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/GOL.java:23:	CommentRequired: Field comments are required
+src/GOL/GOL.java:23:	CommentRequired: Field comments are required
+src/GOL/GOL.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/GOL.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/GOL.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/GOL.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/GOL.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/GOL.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/GOL.java:24:	CommentRequired: Field comments are required
+src/GOL/GOL.java:24:	CommentRequired: Field comments are required
+src/GOL/GOL.java:24:	ShortVariable: Avoid variables with short names like p1
+src/GOL/GOL.java:24:	ShortVariable: Avoid variables with short names like p1
+src/GOL/GOL.java:24:	ShortVariable: Avoid variables with short names like p2
+src/GOL/GOL.java:24:	ShortVariable: Avoid variables with short names like p2
+src/GOL/GOL.java:24:	ShortVariable: Avoid variables with short names like p3
+src/GOL/GOL.java:24:	ShortVariable: Avoid variables with short names like p3
+src/GOL/GOL.java:25:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/GOL.java:25:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/GOL.java:25:	CommentRequired: Field comments are required
+src/GOL/GOL.java:25:	CommentRequired: Field comments are required
+src/GOL/GOL.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/GOL.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/GOL.java:26:	CommentRequired: Field comments are required
+src/GOL/GOL.java:26:	CommentRequired: Field comments are required
+src/GOL/GOL.java:27:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/GOL.java:27:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/GOL.java:27:	CommentRequired: Field comments are required
+src/GOL/GOL.java:27:	CommentRequired: Field comments are required
+src/GOL/GOL.java:27:	ShortVariable: Avoid variables with short names like jl
+src/GOL/GOL.java:27:	ShortVariable: Avoid variables with short names like jl
+src/GOL/GOL.java:28:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+src/GOL/GOL.java:28:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+src/GOL/GOL.java:28:	CommentRequired: Public method and constructor comments are required
+src/GOL/GOL.java:28:	CommentRequired: Public method and constructor comments are required
+src/GOL/GOL.java:35:	ConstructorCallsOverridableMethod: Overridable method 'initGUI' called during object construction
+src/GOL/GOL.java:35:	ConstructorCallsOverridableMethod: Overridable method 'initGUI' called during object construction
+src/GOL/GOL.java:37:	CommentRequired: Public method and constructor comments are required
+src/GOL/GOL.java:37:	CommentRequired: Public method and constructor comments are required
+src/GOL/GOL.java:50:	ControlStatementBraces: This statement should have braces
+src/GOL/GOL.java:50:	ControlStatementBraces: This statement should have braces
+src/GOL/GOL.java:52:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/GOL/GOL.java:52:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/GOL/GOL.java:53:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/GOL/GOL.java:53:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/GOL/GOL.java:54:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:54:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:54:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:54:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:54:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:54:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:55:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:55:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:55:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:55:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:55:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:55:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:62:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/GOL/GOL.java:62:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/GOL/GOL.java:62:	ShortVariable: Avoid variables with short names like e
+src/GOL/GOL.java:62:	ShortVariable: Avoid variables with short names like e
+src/GOL/GOL.java:68:	CollapsibleIfStatements: These nested if statements could be combined
+src/GOL/GOL.java:68:	CollapsibleIfStatements: These nested if statements could be combined
+src/GOL/GOL.java:68:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:68:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:68:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:68:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:68:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:68:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:68:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:68:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:68:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:68:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:68:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:68:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:68:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:68:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:68:	UselessParentheses: Useless parentheses.
+src/GOL/GOL.java:68:	UselessParentheses: Useless parentheses.
+src/GOL/GOL.java:69:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:69:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:69:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:69:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:69:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:69:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:70:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:70:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:70:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:70:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:70:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:70:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:81:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:81:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:81:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:81:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:81:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:81:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:82:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:82:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:82:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:82:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:82:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:82:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:84:	ControlStatementBraces: This statement should have braces
+src/GOL/GOL.java:84:	ControlStatementBraces: This statement should have braces
+src/GOL/GOL.java:84:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:84:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:84:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:84:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:84:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/GOL.java:84:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/World.java:1:	PackageCase: Package name contains upper case characters
+src/GOL/World.java:1:	PackageCase: Package name contains upper case characters
+src/GOL/World.java:3:	CommentRequired: Class comments are required
+src/GOL/World.java:3:	CommentRequired: Class comments are required
+src/GOL/World.java:4:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/World.java:4:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/World.java:4:	CommentRequired: Field comments are required
+src/GOL/World.java:4:	CommentRequired: Field comments are required
+src/GOL/World.java:4:	FinalFieldCouldBeStatic: This final field could be made static
+src/GOL/World.java:4:	FinalFieldCouldBeStatic: This final field could be made static
+src/GOL/World.java:5:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/World.java:5:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/World.java:5:	CommentRequired: Field comments are required
+src/GOL/World.java:5:	CommentRequired: Field comments are required
+src/GOL/World.java:5:	FinalFieldCouldBeStatic: This final field could be made static
+src/GOL/World.java:5:	FinalFieldCouldBeStatic: This final field could be made static
+src/GOL/World.java:6:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/World.java:6:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GOL/World.java:6:	CommentRequired: Field comments are required
+src/GOL/World.java:6:	CommentRequired: Field comments are required
+src/GOL/World.java:7:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the World constructor if you want a default access modifier
+src/GOL/World.java:7:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the World constructor if you want a default access modifier
+src/GOL/World.java:10:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/GOL/World.java:10:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/GOL/World.java:14:	CommentRequired: Public method and constructor comments are required
+src/GOL/World.java:14:	CommentRequired: Public method and constructor comments are required
+src/GOL/World.java:14:	MethodArgumentCouldBeFinal: Parameter 'cell' is not assigned and could be declared final
+src/GOL/World.java:14:	MethodArgumentCouldBeFinal: Parameter 'cell' is not assigned and could be declared final
+src/GOL/World.java:15:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'num' (lines '15'-'23').
+src/GOL/World.java:15:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'num' (lines '15'-'23').
+src/GOL/World.java:23:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'num' (lines '23'-'23').
+src/GOL/World.java:23:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'num' (lines '23'-'23').
+src/GOL/World.java:29:	CommentRequired: Public method and constructor comments are required
+src/GOL/World.java:29:	CommentRequired: Public method and constructor comments are required
+src/GOL/World.java:29:	MethodArgumentCouldBeFinal: Parameter 'cell' is not assigned and could be declared final
+src/GOL/World.java:29:	MethodArgumentCouldBeFinal: Parameter 'cell' is not assigned and could be declared final
+src/GOL/World.java:30:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/GOL/World.java:30:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/GOL/World.java:31:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/GOL/World.java:31:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/GOL/World.java:33:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/GOL/World.java:33:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/GOL/World.java:34:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/GOL/World.java:34:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/GOL/World.java:36:	ControlStatementBraces: This statement should have braces
+src/GOL/World.java:36:	ControlStatementBraces: This statement should have braces
+src/GOL/World.java:38:	CommentRequired: Public method and constructor comments are required
+src/GOL/World.java:38:	CommentRequired: Public method and constructor comments are required
+src/GOL/World.java:39:	ControlStatementBraces: This statement should have braces
+src/GOL/World.java:39:	ControlStatementBraces: This statement should have braces
+src/GOL/World.java:41:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/World.java:41:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/World.java:41:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/World.java:41:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/World.java:41:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/World.java:41:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/World.java:42:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/World.java:42:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/World.java:42:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/World.java:42:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/World.java:42:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/World.java:42:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/GOL/World.java:45:	CommentRequired: Public method and constructor comments are required
+src/GOL/World.java:45:	CommentRequired: Public method and constructor comments are required
+src/GOL/World.java:46:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'num' (lines '46'-'50').
+src/GOL/World.java:46:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'num' (lines '46'-'50').
+src/GOL/World.java:47:	ControlStatementBraces: This statement should have braces
+src/GOL/World.java:47:	ControlStatementBraces: This statement should have braces
+src/GOL/World.java:50:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'num' (lines '50'-'50').
+src/GOL/World.java:50:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'num' (lines '50'-'50').
+src/GOL/main.java:1:	PackageCase: Package name contains upper case characters
+src/GOL/main.java:1:	PackageCase: Package name contains upper case characters
+src/GOL/main.java:3:	CommentRequired: Class comments are required
+src/GOL/main.java:3:	CommentRequired: Class comments are required
+src/GOL/main.java:3:	ShortClassName: Avoid short class names like main
+src/GOL/main.java:3:	ShortClassName: Avoid short class names like main
+src/GOL/main.java:3:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/GOL/main.java:3:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/GOL/main.java:4:	CommentRequired: Public method and constructor comments are required
+src/GOL/main.java:4:	CommentRequired: Public method and constructor comments are required
+src/GOL/main.java:4:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/GOL/main.java:4:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/GOL/main.java:5:	LocalVariableCouldBeFinal: Local variable 'g' could be declared final
+src/GOL/main.java:5:	LocalVariableCouldBeFinal: Local variable 'g' could be declared final
+src/GOL/main.java:5:	ShortVariable: Avoid variables with short names like g
+src/GOL/main.java:5:	ShortVariable: Avoid variables with short names like g
